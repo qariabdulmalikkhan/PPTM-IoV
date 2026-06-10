@@ -49,11 +49,7 @@ PPTM-IoV/
 │   ├── throughput.csv
 │   ├── overhead.csv
 │   └── trust_accuracy.csv
-│
-└── docs/
-    ├── installation.md
-    ├── simulation-setup.md
-    └── reproduction-guide.md
+
 ```
 
 ---
