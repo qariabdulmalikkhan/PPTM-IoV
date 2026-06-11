@@ -77,7 +77,6 @@ The experiments were conducted using:
 | Mobility Source   | SUMO        |
 | Mobility Trace    | faisal.tcl  |
 | Simulation Time   | 850 seconds |
-| Trust Threshold   | 0.30        |
 | Reward Factor     | 0.05        |
 | Punishment Factor | 0.10        |
 
